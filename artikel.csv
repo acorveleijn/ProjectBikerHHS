@@ -1,0 +1,301 @@
+BARCODE,MERK,TYPE,TITEL,PRIJS,PRIJS_PER_D,SPEL_OF_CONSOLE
+10000000,Microsoft                     ,Xbox                          ,,200,5,CONSOLE
+10000001,Microsoft                     ,Xbox                          ,,200,5,CONSOLE
+10000002,Microsoft                     ,Xbox 360                      ,,250,7,CONSOLE
+10000003,Microsoft                     ,Xbox 360                      ,,250,7,CONSOLE
+10000004,Microsoft                     ,Xbox 360                      ,,250,7,CONSOLE
+10000005,Microsoft                     ,Xbox 360                      ,,270,9,CONSOLE
+10000006,Microsoft                     ,Xbox 360                      ,,270,9,CONSOLE
+10000007,Microsoft                     ,Xbox 360                      ,,270,9,CONSOLE
+10000008,Microsoft                     ,Xbox 360                      ,,300,11,CONSOLE
+10000009,Microsoft                     ,Xbox 360                      ,,300,11,CONSOLE
+10000010,Microsoft                     ,Xbox 360                      ,,300,11,CONSOLE
+10000011,Microsoft                     ,Xbox 360                      ,,310,12,CONSOLE
+10000012,Microsoft                     ,Xbox 360                      ,,310,12,CONSOLE
+10000013,Microsoft                     ,XBox One                      ,,400,15,CONSOLE
+10000014,Microsoft                     ,XBox One                      ,,400,15,CONSOLE
+10000015,Microsoft                     ,XBox One                      ,,400,15,CONSOLE
+10000016,Microsoft                     ,XBox One                      ,,400,15,CONSOLE
+10000017,Microsoft                     ,XBox One                      ,,400,15,CONSOLE
+10000018,Microsoft                     ,XBox One X                    ,,450,17,CONSOLE
+10000019,Microsoft                     ,XBox One X                    ,,450,17,CONSOLE
+10000020,Nintendo                      ,WII                           ,,200,5,CONSOLE
+10000021,Nintendo                      ,WII                           ,,200,5,CONSOLE
+10000022,Nintendo                      ,WII                           ,,250,7,CONSOLE
+10000023,Nintendo                      ,WII                           ,,250,7,CONSOLE
+10000024,Nintendo                      ,WII                           ,,250,7,CONSOLE
+10000025,Nintendo                      ,WII Mini                      ,,270,9,CONSOLE
+10000026,Nintendo                      ,WII Mini                      ,,270,9,CONSOLE
+10000027,Nintendo                      ,WII Mini                      ,,270,9,CONSOLE
+10000028,Nintendo                      ,WII U                         ,,300,11,CONSOLE
+10000029,Nintendo                      ,WII U                         ,,300,11,CONSOLE
+10000030,Nintendo                      ,WII U                         ,,300,11,CONSOLE
+10000031,Nintendo                      ,WII U                         ,,310,12,CONSOLE
+10000032,Nintendo                      ,WII U                         ,,310,12,CONSOLE
+10000033,Nintendo                      ,WII U                         ,,310,12,CONSOLE
+10000034,Nintendo                      ,WII U                         ,,310,12,CONSOLE
+10000035,Nintendo                      ,NES Classic Edition           ,,200,5,CONSOLE
+10000036,Nintendo                      ,NES Classic Edition           ,,200,5,CONSOLE
+10000037,Nintendo                      ,Switch                        ,,335,13,CONSOLE
+10000038,Nintendo                      ,Switch                        ,,335,13,CONSOLE
+10000039,Nintendo                      ,Switch                        ,,335,13,CONSOLE
+10000040,Sony                          ,PS3                           ,,200,5,CONSOLE
+10000041,Sony                          ,PS3                           ,,200,5,CONSOLE
+10000042,Sony                          ,PS3                           ,,200,5,CONSOLE
+10000043,Sony                          ,PS3                           ,,200,5,CONSOLE
+10000044,Sony                          ,PS3                           ,,200,5,CONSOLE
+10000045,Sony                          ,PS3                           ,,200,5,CONSOLE
+10000046,Sony                          ,PS4                           ,,270,9,CONSOLE
+10000047,Sony                          ,PS4                           ,,270,9,CONSOLE
+10000048,Sony                          ,PS4                           ,,300,11,CONSOLE
+10000049,Sony                          ,PS4                           ,,300,11,CONSOLE
+10000050,Sony                          ,PS4                           ,,300,11,CONSOLE
+10000051,Sony                          ,PS4                           ,,300,11,CONSOLE
+10000052,Sony                          ,PS4                           ,,300,11,CONSOLE
+10000053,Sony                          ,PS4                           ,,300,11,CONSOLE
+10000054,Sony                          ,PS4                           ,,300,11,CONSOLE
+10000055,Sony                          ,PS4 Pro                       ,,400,15,CONSOLE
+10000056,Sony                          ,PS4 Pro                       ,,400,15,CONSOLE
+10000057,Sony                          ,PS4 Pro                       ,,400,15,CONSOLE
+10000058,Sony                          ,PS4 Slim                      ,,450,17,CONSOLE
+10000059,Sony                          ,PS4 Slim                      ,,450,17,CONSOLE
+10000060,,,0 Cent: Bulletproof - Australia,49,3,SPEL   
+10000061,,,Assassin's Creed - Saudi Arabia,71,4,SPEL   
+10000062,,,Battlefield III - Iran,54,3,SPEL   
+10000063,,,Battlefield IV - China,76,4,SPEL   
+10000064,,,BlazBlue II: Continuum Shift - United Arab Emirates,26,2,SPEL   
+10000065,,,Blitz I: The League - Australia,54,3,SPEL   
+10000066,,,Blood - Brazil,97,5,SPEL   
+10000067,,,BMX XXX - Australia,60,3,SPEL   
+10000068,,,Bully - Brazil,28,2,SPEL   
+10000069,,,Call of Duty IV: Modern Warfare - Saudi Arabia,26,2,SPEL   
+10000070,,,Call of Duty IV: Modern Warfare - United Arab Emirates,59,3,SPEL   
+10000071,,,Call of Duty: Black Ops II - Pakistan,39,2,SPEL   
+10000072,,,Carmageddon - Brazil,78,4,SPEL   
+10000073,,,Carmageddon - United Kingdom,71,4,SPEL   
+10000074,,,Carmageddon - United Kingdom,71,4,SPEL   
+10000075,,,Carmageddon - United Kingdom,71,4,SPEL   
+10000076,,,Carmageddon - United Kingdom,71,4,SPEL   
+10000077,,,Carmageddon - United Kingdom,71,4,SPEL   
+10000078,,,Condemned I: Criminal Origins - Germany,51,3,SPEL   
+10000079,,,Condemned II: Bloodshot - Germany,54,3,SPEL   
+10000080,,,Counter-Strike - Brazil,49,3,SPEL   
+10000081,,,Dante's Inferno - Malaysia,37,2,SPEL   
+10000082,,,Dark Sector - Australia,33,2,SPEL   
+10000083,,,Darksiders - United Arab Emirates,34,2,SPEL   
+10000084,,,Dead Island - United Arab Emirates,74,4,SPEL   
+10000085,,,Dead Island: Riptide - United Arab Emirates,59,3,SPEL   
+10000086,,,Dead Rising - Germany,78,4,SPEL   
+10000087,,,Dead Rising II - Germany,33,2,SPEL   
+10000088,,,Dead Rising II - United Arab Emirates,99,5,SPEL   
+10000089,,,Dead Rising II,99,5,SPEL   
+10000090,,,Dead Rising II,99,5,SPEL   
+10000091,,,Dead Rising II,99,5,SPEL   
+10000092,,,Dead Rising II,99,5,SPEL   
+10000093,,,Dead Rising II,99,5,SPEL   
+10000094,,,Duke Nukem 3D - Brazil,51,3,SPEL   
+10000095,,,EA Sports MMA - Denmark,28,2,SPEL   
+10000096,,,EverQuest - Brazil,85,5,SPEL   
+10000097,,,Fallout IV: New Vegas - United Arab Emirates,70,4,SPEL   
+10000098,,,Football Manager 2005 - China,29,2,SPEL   
+10000099,,,God of War (series) - Saudi Arabia,85,5,SPEL   
+10000100,,,God of War (series) - United Arab Emirates,84,5,SPEL   
+10000101,,,Grand Theft Auto (series) - Brazil,27,2,SPEL   
+10000102,,,Grand Theft Auto (series) - Malaysia,48,3,SPEL   
+10000103,,,Grand Theft Auto (series) - Saudi Arabia,59,3,SPEL   
+10000104,,,Grand Theft Auto (series) on PC - Saudi Arabia,93,5,SPEL   
+10000105,,,Grand Theft Auto (series) - Thailand,66,4,SPEL   
+10000106,,,Grand Theft Auto (series) - Thailand,66,4,SPEL   
+10000107,,,Grand Theft Auto (series) - Thailand,66,4,SPEL   
+10000108,,,Grand Theft Auto V - Saudi Arabia,92,5,SPEL   
+10000109,,,Grand Theft Auto: Episodes from Liberty City - Brazil,63,4,SPEL   
+10000110,,,Grand Theft Auto: Vice City - South Korea,64,4,SPEL   
+10000111,,,Half-Life - Singapore,48,3,SPEL   
+10000112,,,Harvester - Germany,67,4,SPEL   
+10000113,,,Hearts of Iron - China,26,2,SPEL   
+10000114,,,Heavy Rain - Saudi Arabia,85,5,SPEL   
+10000115,,,Heavy Rain - United Arab Emirates,35,2,SPEL   
+10000116,,,Homefront - South Korea,46,3,SPEL   
+10000117,,,Hotline Miami II: Wrong Number - Australia,67,4,SPEL   
+10000118,,,I.G.I.-2: Covert Strike - China,99,5,SPEL   
+10000119,,,Injustice: Gods Among Us - United Arab Emirates,47,3,SPEL   
+10000120,,,Kira Hara - South Korea,60,3,SPEL   
+10000121,,,KZ Manager - Germany,91,5,SPEL   
+10000122,,,L.A. Noire - Saudi Arabia,73,4,SPEL   
+10000123,,,Left 4 Dead II - Germany,66,4,SPEL   
+10000124,,,Leisure Suit Larry:Magna Cum Laude - Australia,29,2,SPEL   
+10000125,,,Mafia II - United Arab Emirates,73,4,SPEL   
+10000126,,,Mafia II - United Arab Emirates,73,4,SPEL   
+10000127,,,Mafia II - United Arab Emirates,73,4,SPEL   
+10000128,,,Mafia II - United Arab Emirates,73,4,SPEL   
+10000129,,,Mafia II - United Arab Emirates,73,4,SPEL   
+10000130,,,Mafia II - United Arab Emirates,73,4,SPEL   
+10000131,,,Mafia II - United Arab Emirates,73,4,SPEL   
+10000132,,,Mafia II - United Arab Emirates,73,4,SPEL   
+10000133,,,Manhunt (series) - Australia,57,3,SPEL   
+10000134,,,Manhunt (series) - Australia,57,3,SPEL   
+10000135,,,Manhunt (series) - Australia,57,3,SPEL   
+10000136,,,Manhunt (series) - Australia,57,3,SPEL   
+10000137,,,Manhunt (series) - Australia,57,3,SPEL   
+10000138,,,Manhunt (series) - Germany,74,4,SPEL   
+10000139,,,Manhunt (series) - Malaysia,53,3,SPEL   
+10000140,,,Manhunt (series) - New Zealand,52,3,SPEL   
+10000141,,,Manhunt (series) - South Korea,67,4,SPEL   
+10000142,,,Manhunt II - Germany,57,3,SPEL   
+10000143,,,Manhunt II - Ireland,34,2,SPEL   
+10000144,,,Manhunt II - New Zealand,65,4,SPEL   
+10000145,,,Manhunt II - South Korea,83,5,SPEL   
+10000146,,,Manhunt II - United Kingdom,46,3,SPEL   
+10000147,,,Marc Ecko's Getting Up:Contents Under Pressure - Australia,83,5,SPEL   
+10000148,,,Mass Effect - Singapore,77,4,SPEL   
+10000149,,,Mass Effect II - United Arab Emirates,67,4,SPEL   
+10000150,,,Mass Effect III - United Arab Emirates,54,3,SPEL   
+10000151,,,Max Payne - United Arab Emirates,32,2,SPEL   
+10000152,,,Medal of Honor IVX: Warfighter - Pakistan,95,5,SPEL   
+10000153,,,Mercenaries I: Playground of Destruction - South Korea,53,3,SPEL   
+10000154,,,Mercenaries I: Playground of Destruction - South Korea,53,3,SPEL   
+10000155,,,Mercenaries I: Playground of Destruction - South Korea,53,3,SPEL   
+10000156,,,Mortal Kombat - Brazil,52,3,SPEL   
+10000157,,,Mortal Kombat - Brazil,52,3,SPEL   
+10000158,,,Mortal Kombat - Germany,31,2,SPEL   
+10000159,,,Mortal Kombat - Germany,31,2,SPEL   
+10000160,,,Mortal Kombat - South Korea,37,2,SPEL   
+10000161,,,Mortal Kombat II - Germany,58,3,SPEL   
+10000162,,,Mortal Kombat III - Germany,46,3,SPEL   
+10000163,,,Mortyr - Germany,58,3,SPEL   
+10000164,,,Mortyr - Germany,58,3,SPEL   
+10000165,,,Mortyr - Germany,58,3,SPEL   
+10000166,,,Mortyr - Germany,58,3,SPEL   
+10000167,,,Mortyr - Germany,58,3,SPEL   
+10000168,,,Mortyr - Germany,58,3,SPEL   
+10000169,,,Mortyr - Germany,58,3,SPEL   
+10000170,,,Mortyr - Germany,58,3,SPEL   
+10000171,,,NARC (2005) - Australia,98,5,SPEL   
+10000172,,,NARC (2005) - Australia,98,5,SPEL   
+10000173,,,NARC (2005) - Australia,98,5,SPEL   
+10000174,,,NARC (2005) - Australia,98,5,SPEL   
+10000175,,,NARC (2005) - Australia,98,5,SPEL   
+10000176,,,NARC (2005) - Australia,98,5,SPEL   
+10000177,,,NARC (2005) - Australia,98,5,SPEL   
+10000178,,,NecroVisioN - Australia,34,2,SPEL   
+10000179,,,Phantasmagoria - Australia,62,4,SPEL   
+10000180,,,Phantasmagoria - Australia,62,4,SPEL   
+10000181,,,Phantasmagoria - Australia,62,4,SPEL   
+10000182,,,Phantasmagoria - Australia,62,4,SPEL   
+10000183,,,Phantasmagoria - Australia,62,4,SPEL   
+10000184,,,Phantasmagoria - Australia,62,4,SPEL   
+10000185,,,Phantasmagoria - Australia,62,4,SPEL   
+10000186,,,Phantasmagoria - Australia,62,4,SPEL   
+10000187,,,Phantasmagoria - Australia,62,4,SPEL   
+10000188,,,Phantasmagoria - Australia,62,4,SPEL   
+10000189,,,Phantasmagoria - Australia,62,4,SPEL   
+10000190,,,Phantasmagoria - Australia,62,4,SPEL   
+10000191,,,Phantasmagoria - Australia,62,4,SPEL   
+10000192,,,Phantasmagoria - Australia,62,4,SPEL   
+10000193,,,Pok�mon Trading Card Game - Saudi Arabia,29,2,SPEL   
+10000194,,,Pok�mon Trading Card Game - Saudi Arabia,29,2,SPEL   
+10000195,,,Pok�mon Trading Card Game - Saudi Arabia,29,2,SPEL   
+10000196,,,Postal - Australia,34,2,SPEL   
+10000197,,,Postal - Australia,34,2,SPEL   
+10000198,,,Postal - Australia,34,2,SPEL   
+10000199,,,Postal - China,83,5,SPEL   
+10000200,,,Postal - China,83,5,SPEL   
+10000201,,,Postal - China,83,5,SPEL   
+10000202,,,Postal II - Australia,62,4,SPEL   
+10000203,,,Postal II - Australia,62,4,SPEL   
+10000204,,,Postal II - Australia,62,4,SPEL   
+10000205,,,Postal II - New Zealand,46,3,SPEL   
+10000206,,,Postal II - New Zealand,46,3,SPEL   
+10000207,,,Postal II - New Zealand,46,3,SPEL   
+10000208,,,Postal II Demo Game - New Zealand,31,2,SPEL   
+10000209,,,Postal II Demo Game - New Zealand,31,2,SPEL   
+10000210,,,Postal II Demo Game - New Zealand,31,2,SPEL   
+10000211,,,RapeLay - Argentina,62,4,SPEL   
+10000212,,,RapeLay - Argentina,62,4,SPEL   
+10000213,,,RapeLay - Argentina,62,4,SPEL   
+10000214,,,RapeLay - Indonesia,45,3,SPEL   
+10000215,,,RapeLay - Indonesia,45,3,SPEL   
+10000216,,,RapeLay - Indonesia,45,3,SPEL   
+10000217,,,RapeLay - New Zealand,96,5,SPEL   
+10000218,,,RapeLay - New Zealand,96,5,SPEL   
+10000219,,,RapeLay - New Zealand,96,5,SPEL   
+10000220,,,RapeLay - New Zealand,96,5,SPEL   
+10000221,,,Reservoir Dogs - Australia,69,4,SPEL   
+10000222,,,Reservoir Dogs - Australia,69,4,SPEL   
+10000223,,,Reservoir Dogs - Australia,69,4,SPEL   
+10000224,,,Reservoir Dogs - New Zealand,81,5,SPEL   
+10000225,,,Reservoir Dogs - New Zealand,81,5,SPEL   
+10000226,,,Reservoir Dogs - New Zealand,81,5,SPEL   
+10000227,,,Risen - Australia,32,2,SPEL   
+10000228,,,Risen - Australia,32,2,SPEL   
+10000229,,,Risen - Australia,32,2,SPEL   
+10000230,,,Saints Row III - United Arab Emirates,96,5,SPEL   
+10000231,,,Saints Row III - United Arab Emirates,96,5,SPEL   
+10000232,,,Saints Row III - United Arab Emirates,96,5,SPEL   
+10000233,,,Saints Row IV - Australia,60,3,SPEL   
+10000234,,,Saints Row IV - Australia,60,3,SPEL   
+10000235,,,Saints Row IV - Australia,60,3,SPEL   
+10000236,,,Saints Row IV - Australia,60,3,SPEL   
+10000237,,,Saints Row IV - Australia,60,3,SPEL   
+10000238,,,Saints Row IV - Australia,60,3,SPEL   
+10000239,,,Saints Row IV - Australia,60,3,SPEL   
+10000240,,,Saints Row IV - Australia,60,3,SPEL   
+10000241,,,Saints Row IV - United Arab Emirates,36,2,SPEL   
+10000242,,,Saints Row IV - United Arab Emirates,36,2,SPEL   
+10000243,,,Saints Row IV - United Arab Emirates,36,2,SPEL   
+10000244,,,Saints Row IV - United Arab Emirates,36,2,SPEL   
+10000245,,,Saints Row IV - United Arab Emirates,36,2,SPEL   
+10000246,,,Saints Row IV - United Arab Emirates,36,2,SPEL   
+10000247,,,Saints Row IV - United Arab Emirates,36,2,SPEL   
+10000248,,,Scarface: The World is Yours - Germany,34,2,SPEL   
+10000249,,,Scarface: The World is Yours - Germany,34,2,SPEL   
+10000250,,,Shellshock II: Blood Trails - Australia,52,3,SPEL   
+10000251,,,Shellshock II: Blood Trails - Australia,52,3,SPEL   
+10000252,,,Silent Hill VI: Homecoming - Australia,35,2,SPEL   
+10000253,,,Silent Hill VI: Homecoming - Australia,35,2,SPEL   
+10000254,,,Silent Hill VI: Homecoming - Australia,35,2,SPEL   
+10000255,,,Silent Hill VI: Homecoming - Australia,35,2,SPEL   
+10000256,,,Silent Hill VI: Homecoming - Germany,35,2,SPEL   
+10000257,,,Silent Hill VI: Homecoming - Germany,35,2,SPEL   
+10000258,,,Singles: Flirt Up Your Life - Australia,50,3,SPEL   
+10000259,,,Singles: Flirt Up Your Life - Australia,50,3,SPEL   
+10000260,,,Soldier of Fortune III: Payback - Australia,65,4,SPEL   
+10000261,,,Soldier of Fortune III: Payback - Australia,65,4,SPEL   
+10000262,,,Soldier of Fortune III: Payback - Germany,64,4,SPEL   
+10000263,,,Soldier of Fortune III: Payback - Germany,64,4,SPEL   
+10000264,,,Sonic Blast Man - United States,65,4,SPEL   
+10000265,,,Sonic Blast Man - United States,65,4,SPEL   
+10000266,,,Sonic Blast Man - United States,65,4,SPEL   
+10000267,,,Sonic Blast Man - United States,65,4,SPEL   
+10000268,,,Syndicate - Australia,85,5,SPEL   
+10000269,,,Syndicate - Australia,85,5,SPEL   
+10000270,,,The Cat In The Hat - Brazil,76,4,SPEL   
+10000271,,,The Cat In The Hat - Brazil,76,4,SPEL   
+10000272,,,The Darkness - Germany,80,4,SPEL   
+10000273,,,The Darkness - Singapore,67,4,SPEL   
+10000274,,,The Getaway - Australia,59,3,SPEL   
+10000275,,,The Godfather II - United Arab Emirates,35,2,SPEL   
+10000276,,,The Godfather II - United Arab Emirates,35,2,SPEL   
+10000277,,,The Godfather II - United Arab Emirates,35,2,SPEL   
+10000278,,,The Godfather II - United Arab Emirates,35,2,SPEL   
+10000279,,,Three Sisters' Story - New Zealand,83,5,SPEL   
+10000280,,,Three Sisters' Story - New Zealand,83,5,SPEL   
+10000281,,,Three Sisters' Story - New Zealand,83,5,SPEL   
+10000282,,,Tom Clancy's Splinter Cell II: Pandora Tomorrow - Indonesia,88,5,SPEL   
+10000283,,,Tom Clancy's Splinter Cell II: Pandora Tomorrow - Indonesia,88,5,SPEL   
+10000284,,,Tom Clancy's Splinter Cell II: Pandora Tomorrow - Indonesia,88,5,SPEL   
+10000285,,,Tom Clancy's Splinter Cell III: Chaos Theory - South Korea,79,4,SPEL   
+10000286,,,Tom Clancy's Splinter Cell III: Chaos Theory - South Korea,79,4,SPEL   
+10000287,,,Tom Clancy's Splinter Cell III: Chaos Theory - South Korea,79,4,SPEL   
+10000288,,,Voyeur - Australia,91,5,SPEL   
+10000289,,,Voyeur - Australia,91,5,SPEL   
+10000290,,,Voyeur - Australia,91,5,SPEL   
+10000291,,,Watch Dogs - United Arab Emirates,89,5,SPEL   
+10000292,,,Watch Dogs - United Arab Emirates,89,5,SPEL   
+10000293,,,Watch Dogs - United Arab Emirates,89,5,SPEL   
+10000294,,,Wolfenstein - Germany,31,2,SPEL   
+10000295,,,Wolfenstein - Germany,31,2,SPEL   
+10000296,,,Wolfenstein - Germany,31,2,SPEL   
+10000297,,,Wolfenstein - Germany,31,2,SPEL   
+10000298,,,Wolfenstein - Germany,31,2,SPEL   
+10000299,,,Wolfenstein - Germany,31,2,SPEL   
